@@ -59,6 +59,9 @@ a {
   color: #F21DC8;
 }
 
+/* headerContainer er brukt til å bestemme
+hvordan hovedsiden til medlemsappen skal se ut */
+
 .headerContainer {
   background-color: #FFCC00;
   display: flex;
